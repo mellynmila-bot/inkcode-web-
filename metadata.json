@@ -1,0 +1,6 @@
+{
+  "name": "@inkcode.web — Websites para tatuadores",
+  "description": "Criamos websites personalizados para tatuadores. Mostra o teu trabalho, destaca o teu estilo e transforma visitantes em clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
